@@ -1,0 +1,4 @@
+Add manifest and version files for EZO Medical Lab Sales & Payments app
+
+- Created manifest.json to define app metadata and icons for PWA support.
+- Added version.json to specify app version details including version number and build number.
